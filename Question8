@@ -1,0 +1,10 @@
+A0 = The final value of A0 will be {'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5}
+A1 =  The final value of A1 will be range(0, 10).
+A2 = The final value of A2 will be [1, 2, 3, 4, 5].
+A3 = The final value of A3 will be [1, 2, 3, 4, 5].
+A4 = The final value of A4 will be [1, 2, 3, 4, 5].
+A5 = The final value of A5 will be {0: 0, 1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64, 9: 81}.
+A6 = Final value of A6: [[0, 0], [1, 1], [2, 4], [3, 9], [4, 16], [5, 25], [6, 36], [7, 49], [8, 64], [9, 81]]
+A7 = Final value of A7: 21
+A8 = A8 uses the map() function with a lambda function to double each element in the given list [1, 2, 3, 4].
+A9 = A9 uses the filter() function with a lambda function to filter out elements from the given list ["I", "want", "to", "learn", "python"] that have a length greater than 3.Final value of A9: <filter object at ...>
