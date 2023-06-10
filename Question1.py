@@ -8,10 +8,4 @@ def selection_sort(arr):
         arr[i], arr[min_idx] = arr[min_idx], arr[i]
     return arr
 
-numbers = input("Enter a list of numbers (space-separated): ").split()
 
-numbers = [int(num) for num in numbers]
-
-sorted_numbers = selection_sort(numbers)
-
-print("Sorted list:", sorted_numbers)
